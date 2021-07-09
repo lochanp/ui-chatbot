@@ -247,8 +247,8 @@ body {
 }
 .fa-comment-alt {
     z-index: 1;
-    padding-top: 2px;
-    padding-right: 1px;
+    padding-top: 5px;
+    padding-right: 5px;
 }
 .btn:hover {
   background: #b6b9ba;
